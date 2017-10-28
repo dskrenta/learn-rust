@@ -1,1 +1,0 @@
-{"rustc":2301133102454374455,"features":"[]","target":1513626264868148728,"profile":731176819336294830,"deps":[["rand v0.3.17",11406066653002932355]],"local":[{"MtimeBased":[[1509184150,0],"/Users/davidskrenta/repos/learn-rust/guessing-game/target/debug/.fingerprint/guessing-game-fcf7f7305f72df8a/dep-bin-guessing_game-fcf7f7305f72df8a"]}],"rustflags":[]}
